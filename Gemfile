@@ -1,0 +1,20 @@
+source "http://rubygems.org"
+
+gem "sinatra"
+gem "puma"
+gem 'capybara'
+gem 'sauce-cucumber'
+gem 'sauce'
+gem "json"
+gem "slackr"
+gem "rake"
+gem "dm-postgres-adapter"
+gem 'bson_ext'
+gem 'haml'
+gem "data_mapper"
+gem "rspec"
+gem "httparty"
+gem "libv8"
+gem "pg"
+gem "librato-metrics"
+gem "poltergeist"

@@ -1,0 +1,2 @@
+desktop: -r features/desktop/ -f pretty -t @complete  
+sanity: -p desktop -t @sanity
